@@ -1,0 +1,13 @@
+$
+\begin{array} { } 
+\phantom{\text{Pourcentage de la batterie}} & \phantom{0}& \phantom{24}\mathrlap{\underset{\large\curvearrowright}{8}{\overset{\times2}{\small\rightarrow}}}&\phantom{36}\mathrlap{\underset{\large\curvearrowright}{16}} &\phantom{48} \\
+\end{array}\\
+\begin{array} { | l | l | l | l | l | l | l|l|} 
+\hline \text{Temps en min} & 0 & 16 &24 & 40 \\
+\hline \text{Pourcentage de la batterie} & 0& 24 & 36 &48 \\
+\hline
+\end{array}\\
+\begin{array} { }
+\phantom{\text{Pourcentage de la batterie}} & \phantom{0}\mathrlap{\overset{\large\smile}{24}}& \phantom{24}\mathrlap{\overset{\large\smile}{12}} & \phantom{36}\mathrlap{\overset{\large\smile}{12}} &\phantom{48} \\
+\end{array}
+$
